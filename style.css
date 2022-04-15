@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/voice-assistant-concept-sound-wave-voice-sound-recognition-equalizer-wave-flow-background_208588-397.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.div1{
+    background-color: rgba(255, 255, 255, 0.425);
+    color: black;
+}
+
+.divindex1{
+    background-color: rgba(255, 255, 255, 0.553);
+}
+
+.divindex2{
+    background-color: rgba(0, 255, 255, 0.525);
+}
+
+.divindex3{
+    background-color: rgba(38, 255, 0, 0.525);
+}
